@@ -1,0 +1,4 @@
+gspread
+pandas
+sqlite3
+python-dotenv
