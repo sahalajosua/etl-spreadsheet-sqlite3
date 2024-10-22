@@ -18,9 +18,9 @@ To get started with this project, follow these steps:
 ## Folder Structure
 
 1. Extract Data
-The read.py script reads data from a spreadsheet google using API.
+   The read.py script reads data from a spreadsheet google using API.
 
-2. Transform Data
+3. Transform Data
 The transform.py script performs data transformation on the extracted data.
 The transformations may include:
 - Column manipulation or calculation (e.g., data type conversion, computing new values).
