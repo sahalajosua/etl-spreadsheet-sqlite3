@@ -17,16 +17,16 @@ To get started with this project, follow these steps:
 
 ## Folder Structure
 
-1. Extract Data
+1. Extract Data:
    The read.py script reads data from a spreadsheet google using API.
 
-3. Transform Data
+2. Transform Data:
 The transform.py script performs data transformation on the extracted data.
 The transformations may include:
 - Column manipulation or calculation (e.g., data type conversion, computing new values).
 - Standardizing formats (e.g., date or phone number formats).
 
-3. Load Data
+3. Load Data:
 The load.py script establishes a connection to the SQLite3 database.
 The transformed data is loaded into a table in the database.
 
